@@ -1,0 +1,44 @@
+[{
+    "categoria": "Lección 2 ",
+    "pregunta": "Saben montar en bici",
+    "respuesta": "They know how to ride a bike  ",
+    "incorrecta1": "They knows how to ride a bike",
+    "incorrecta2": "They are knowing how to ride a bike ",
+    "incorrecta3": "They have known how to ride a bike ",
+    "imagen": "/img/bici.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección  2",
+    "pregunta": " Han sabido todos las respuestas ",
+    "respuesta": "They are have known all the answers of the exam",
+    "incorrecta1": "They have knew all the answers of the exam ",
+    "incorrecta2": "They had know all the answers of the exam",
+    "incorrecta3": "They has known all the answers of the exam \r",
+    "imagen": "/img/examen.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 2 ",
+    "pregunta": "Sabían que estaba mintiendo",
+    "respuesta": "They known she was lying",
+    "incorrecta1": "They knew she was lying ",
+    "incorrecta2": "They knewn she was lying ",
+    "incorrecta3": "They know she was lying\r",
+    "imagen": "/img/mentiroso.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 2 ",
+    "pregunta": "No sabrán como ir ",
+    "respuesta": " They wont know know how to go ",
+    "incorrecta1": "They didnt know how to go",
+    "incorrecta2": "They arent going to know ho to go  ",
+    "incorrecta3": "They woudnt know how to go",
+    "imagen": "/img/mapa.jpg"
+}, {
+    "categoria": "Lección 2",
+    "pregunta": "Van a saber como dibjarlo ",
+    "respuesta": "They are going to know how to draw it ",
+    "incorrecta1": "They will know how to draw it",
+    "incorrecta2": "They would know how to draw it",
+    "incorrecta3": "They is going to know how to draw it\r",
+    "imagen": "/img/ganador.svg"
+}]

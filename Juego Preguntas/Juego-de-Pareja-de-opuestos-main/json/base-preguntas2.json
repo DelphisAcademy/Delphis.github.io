@@ -1,0 +1,44 @@
+[{
+    "categoria": "Lección 1 ",
+    "pregunta": "Lo estoy pasando muy bien contigo",
+    "respuesta": "I am having a great time whith you ",
+    "incorrecta1": "I was having a great time whith you",
+    "incorrecta2": "I having a great time with you",
+    "incorrecta3": "I are having a great time with you",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/pasarlo bien.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección  1",
+    "pregunta": "Hoy he tenido un examen ",
+    "respuesta": "I have had an exam today",
+    "incorrecta1": "I have has an exam today",
+    "incorrecta2": "I had an exam today ",
+    "incorrecta3": "I has an exam today \r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/examen2.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 1 ",
+    "pregunta": "Yo tuve un perro cuando era un niño ",
+    "respuesta": "I had a dog when i was a kid",
+    "incorrecta1": "I have a dog when i was a kid ",
+    "incorrecta2": "I has a dog when i was  a kid  ",
+    "incorrecta3": "I have had a dog when i was a kid\r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main//img/perro.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 1 ",
+    "pregunta": "Tendré un coche el mes que viene ",
+    "respuesta": " I will have a car next month",
+    "incorrecta1": "I am, going to have a car next month",
+    "incorrecta2": "I wont have  a dog next month ",
+    "incorrecta3": "I have a dog next month\r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/coche.jpg"
+}, {
+    "categoria": "Lección 1",
+    "pregunta": "Voy a tener una reunión el próximo lunes ",
+    "respuesta": "I am going to have a meeting next monday",
+    "incorrecta1": "I will   have a meeting next monday",
+    "incorrecta2": "I have a meeting next monday",
+    "incorrecta3": "I had a meeting next monday\r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/reunion.jpg"
+}]

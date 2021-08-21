@@ -1,0 +1,47 @@
+                    h1 {
+                        color: white;
+                        font-family: 'Rampart One', cursive;
+                        text-align: center;
+                        font-size: 50px
+                    }
+                    
+                    #delphis {
+                        color: #B9E9E7;
+                    }
+                    
+                    body {
+                        background-color: rgb(89, 115, 194);
+                    }
+                    
+                    img {
+                        width: 100px;
+                        height: 100px;
+                    }
+                    
+                    #hola {
+                        width: 900px;
+                        height: 684px;
+                    }
+                    
+                    h2 {
+                        text-align: center;
+                        color: aliceblue;
+                    }
+                    
+                    p {
+                        color: #D2D511;
+                        text-align: center;
+                        font-size: 25px;
+                        font-family: 'Times New Roman', Times, serif;
+                    }
+                    
+                    header {
+                        color: lightblue;
+                    }
+                    
+                    video {
+                        width: 500px;
+                        height: 500px;
+                        border-radius: 40px;
+                        border: 20px solid #0000
+                    }

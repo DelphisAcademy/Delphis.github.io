@@ -1,0 +1,44 @@
+[{
+    "categoria": "Lección 2 ",
+    "pregunta": "No estais pudiendo hacerlo más rápido",
+    "respuesta": "You arent being able to do it faster ",
+    "incorrecta1": "You haven t been able to do it faster",
+    "incorrecta2": "You havent being able to do it faster",
+    "incorrecta3": "You arent beeen able to do it faster",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/rapido.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección  2",
+    "pregunta": "Habeis podido ayudarle ",
+    "respuesta": "You have been able to help him",
+    "incorrecta1": "You are been able to help him",
+    "incorrecta2": "You could help him ",
+    "incorrecta3": "You had been able to help him \r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/amble.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 2 ",
+    "pregunta": "Podrías salir más a menudo",
+    "respuesta": "You could go out more often",
+    "incorrecta1": "You cant go out more often ",
+    "incorrecta2": "You havent cant go out more often  ",
+    "incorrecta3": "Yo couldent go out more often\r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/calle.jpg",
+    "objectFit": "cover"
+}, {
+    "categoria": "Lección 2 ",
+    "pregunta": "Sereis capaces de descansar mas esta noche ",
+    "respuesta": " You will be able to rest more tonight",
+    "incorrecta1": "You are going to be able to rest more tonight",
+    "incorrecta2": "You were able to rest more tonight  ",
+    "incorrecta3": "You arent being able to rest more tonight",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/dormir.jpg"
+}, {
+    "categoria": "Lección 2",
+    "pregunta": "Vas a poder hacerlo ",
+    "respuesta": "You are going to be able to make it",
+    "incorrecta1": "You havent been able to make it",
+    "incorrecta2": "You are going been able to make it",
+    "incorrecta3": "You are gonig to being able to make it\r",
+    "imagen": "/Juego-de-Pareja-de-opuestos-main/img/ganador.svg"
+}]

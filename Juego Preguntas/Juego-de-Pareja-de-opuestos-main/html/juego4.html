@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Examen lección 2 </title>
+    <link rel="stylesheet" href="/css/boton.css">
+    <!--Link Favicon-->
+    <link rel="shortcut icon" href="/Juego-de-Pareja-de-opuestos-main/img/logo delphis.png" type="image/x-icon">
+    <link rel="stylesheet" href="/Juego-de-Pareja-de-opuestos-main/css/boton.css">
+</head>
+
+<body>
+    <style>
+        * {
+            transition: all 0.3s;
+        }
+        
+        #hola {
+            width: 60px;
+            height: 60px;
+        }
+        
+        body {
+            background: cadetblue;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+            font-family: calibri;
+            font-size: 120%;
+        }
+        
+        .contenedor {
+            width: 98vw;
+            height: 97vh;
+            display: inline-flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .encabezado {
+            position: relative;
+            background: white;
+            min-width: 300px;
+            width: 70%;
+            max-width: 600px;
+            padding: 10px;
+        }
+        
+        .categoria {
+            opacity: 0.3;
+            text-align: left;
+        }
+        
+        .pregunta {
+            padding: 10px;
+        }
+        
+        .imagen {
+            object-fit: cover;
+            height: 0px;
+            width: 0px;
+        }
+        
+        .btn {
+            background: white;
+            width: 60%;
+            max-width: 550px;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        
+        .btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .numero {
+            position: absolute;
+            opacity: 0.3;
+            top: 10px;
+            right: 10px;
+        }
+        
+        .puntaje {
+            padding: 10px;
+            color: white;
+        }
+    </style>
+
+    <div class="contenedor">
+        <div class="puntaje" id="puntaje"></div>
+        <div class="encabezado">
+            <div class="categoria" id="categoria">
+            </div>
+            <div class="numero" id="numero"></div>
+            <div class="pregunta" id="pregunta">
+            </div>
+            <img src="#" class="imagen" id="imagen">
+        </div>
+        <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+        <div class=" btn" id="btn2" onclick="oprimir_btn(1) "></div>
+        <div class="btn" id="btn3" onclick="oprimir_btn(2) "></div>
+        <div class="btn" id="btn4" onclick="oprimir_btn(3) "></div>
+        <div class="buttons">
+            <div class="buttons">
+                <a href="/Juego-de-Pareja-de-opuestos-main/ 3.html"><button class="offset">Siguiente</button></a>
+            </div>
+            <a href="/Juego-de-Pareja-de-opuestos-main/html/leccion4.html"><button class="offset">Atrás</button></a>
+        </div>
+
+
+
+
+    </div>
+    <sript src="/Juego-de-Pareja-de-opuestos-main/js/"></sript>
+</body>
+
+</html>
